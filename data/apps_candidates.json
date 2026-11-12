@@ -1,0 +1,378 @@
+{
+  "BIONS (BNIS)": {
+    "play": [
+      {
+        "appId": null,
+        "title": "BIONS by BNI Sekuritas",
+        "developer": "PT. BNI Sekuritas",
+        "score": 4.0405407
+      },
+      {
+        "appId": "id.zaisan.android",
+        "title": "BIONS Mobile",
+        "developer": "PT. BNI Sekuritas",
+        "score": 3.2663476
+      },
+      {
+        "appId": "co.id.bankbsi.superapp",
+        "title": "BYOND by BSI",
+        "developer": "PT Bank Syariah Indonesia, Tbk.",
+        "score": 3.9484966
+      },
+      {
+        "appId": "id.bni.wondr",
+        "title": "wondr by BNI",
+        "developer": "PT Bank Negara Indonesia (Persero) Tbk.",
+        "score": 4.8043594
+      },
+      {
+        "appId": "net.metaquotes.metatrader5",
+        "title": "MetaTrader 5",
+        "developer": "MetaQuotes Software Corp.",
+        "score": 4.824133
+      }
+    ],
+    "appstore": []
+  },
+  "Stockbit": {
+    "play": [
+      {
+        "appId": null,
+        "title": "Stockbit - Investasi Saham",
+        "developer": "Stockbit – Trading. Investing. Data. News. Chart.",
+        "score": 4.7002625
+      },
+      {
+        "appId": "com.bibit.bibitid",
+        "title": "Bibit - Reksadana & Obligasi",
+        "developer": "PT. Bibit Tumbuh Bersama - Reksadana Online",
+        "score": 4.81734
+      },
+      {
+        "appId": "com.indopremier.ipot",
+        "title": "IPOT Investasi & Trading Saham",
+        "developer": "Indo Premier Sekuritas, PT",
+        "score": 4.0714407
+      },
+      {
+        "appId": "ajaib.co.id",
+        "title": "Ajaib: Saham, Kripto, Saham AS",
+        "developer": "Ajaib Technologies",
+        "score": 4.5124745
+      },
+      {
+        "appId": "com.fusionmedia.investing",
+        "title": "Investing.com: Bursa & Saham",
+        "developer": "INVESTING.com",
+        "score": 4.826948
+      }
+    ],
+    "appstore": [
+      {
+        "trackId": 1184800207,
+        "name": "Stockbit - Stock Investing App",
+        "seller": "Stockbit Pte Ltd",
+        "rating": 4.72237,
+        "n": 35255
+      },
+      {
+        "trackId": 1445856964,
+        "name": "Bibit - Reksadana & Obligasi",
+        "seller": "BIBIT TUMBUH BERSAMA, PT",
+        "rating": 4.85098,
+        "n": 80304
+      },
+      {
+        "trackId": 1473916571,
+        "name": "Ajaib: Stock, Crypto, US Stock",
+        "seller": "Ajaib Technologies Corporation",
+        "rating": 4.1962,
+        "n": 27024
+      },
+      {
+        "trackId": 1069512882,
+        "name": "Stocks",
+        "seller": "Apple Distribution International",
+        "rating": 4.36545,
+        "n": 23182
+      },
+      {
+        "trackId": 1341588054,
+        "name": "Pluang: Trading Saham & Crypto",
+        "seller": "BUMI SANTOSA CEMERLANG, PT",
+        "rating": 4.59862,
+        "n": 13167
+      }
+    ]
+  },
+  "Ajaib": {
+    "play": [
+      {
+        "appId": "ajaib.co.id",
+        "title": "Ajaib: Saham, Kripto, Saham AS",
+        "developer": "Ajaib Technologies",
+        "score": 4.5124745
+      },
+      {
+        "appId": "coin.ajaib.co.id",
+        "title": "Ajaib Kripto:Beli BTC & Crypto",
+        "developer": "Ajaib Technologies",
+        "score": 4.302778
+      },
+      {
+        "appId": "com.bibit.bibitid",
+        "title": "Bibit - Reksadana & Obligasi",
+        "developer": "PT. Bibit Tumbuh Bersama - Reksadana Online",
+        "score": 4.81734
+      },
+      {
+        "appId": "com.stockbit.android",
+        "title": "Stockbit - Investasi Saham",
+        "developer": "Stockbit – Trading. Investing. Data. News. Chart.",
+        "score": 4.7002625
+      },
+      {
+        "appId": "com.tuntun.tt",
+        "title": "Tuntun: Beli Saham & Reksadana",
+        "developer": "Tuntun Sekuritas Indonesia",
+        "score": 4.518797
+      }
+    ],
+    "appstore": [
+      {
+        "trackId": 1473916571,
+        "name": "Ajaib: Stock, Crypto, US Stock",
+        "seller": "Ajaib Technologies Corporation",
+        "rating": 4.1962,
+        "n": 27024
+      },
+      {
+        "trackId": 1445856964,
+        "name": "Bibit - Reksadana & Obligasi",
+        "seller": "BIBIT TUMBUH BERSAMA, PT",
+        "rating": 4.85098,
+        "n": 80304
+      },
+      {
+        "trackId": 1341588054,
+        "name": "Pluang: Trading Saham & Crypto",
+        "seller": "BUMI SANTOSA CEMERLANG, PT",
+        "rating": 4.59862,
+        "n": 13167
+      },
+      {
+        "trackId": 1316876694,
+        "name": "Bareksa - Super App Investasi",
+        "seller": "PT. BAREKSA MARKETPLACE INDONESIA",
+        "rating": 4.7621,
+        "n": 12480
+      },
+      {
+        "trackId": 1184800207,
+        "name": "Stockbit - Stock Investing App",
+        "seller": "Stockbit Pte Ltd",
+        "rating": 4.72237,
+        "n": 35255
+      }
+    ]
+  },
+  "IPOT": {
+    "play": [
+      {
+        "appId": null,
+        "title": "IPOT Investasi & Trading Saham",
+        "developer": "Indo Premier Sekuritas, PT",
+        "score": 4.0714407
+      },
+      {
+        "appId": "com.indopremier.ipotpay",
+        "title": "IPOTFLEX",
+        "developer": "Indo Premier Sekuritas, PT",
+        "score": 2.87
+      },
+      {
+        "appId": "com.stockbit.android",
+        "title": "Stockbit - Investasi Saham",
+        "developer": "Stockbit – Trading. Investing. Data. News. Chart.",
+        "score": 4.7002625
+      },
+      {
+        "appId": "com.ipopremium.app",
+        "title": "IPO Premium - Apply & Info",
+        "developer": "Jaynath Infotech Private Limited",
+        "score": null
+      },
+      {
+        "appId": "com.EmasDigi",
+        "title": "Pluang: Trading Saham & Crypto",
+        "developer": "pluang",
+        "score": 4.6754966
+      }
+    ],
+    "appstore": [
+      {
+        "trackId": 1514387216,
+        "name": "IPOT: 1 Platform, Your Journey",
+        "seller": "PT INDO PREMIER SEKURITAS",
+        "rating": 3.39882,
+        "n": 7818
+      },
+      {
+        "trackId": 1148548939,
+        "name": "IPOTKU",
+        "seller": "PT INDO PREMIER SEKURITAS",
+        "rating": 3.64286,
+        "n": 14
+      },
+      {
+        "trackId": 1160259651,
+        "name": "IPOTGO",
+        "seller": "PT INDO PREMIER SEKURITAS",
+        "rating": 1.75808,
+        "n": 897
+      },
+      {
+        "trackId": 1580581666,
+        "name": "IPOTFLEX",
+        "seller": "PT INDO PREMIER SEKURITAS",
+        "rating": 2.61224,
+        "n": 49
+      }
+    ]
+  },
+  "MOST": {
+    "play": [
+      {
+        "appId": "id.co.miraeasset.stock",
+        "title": "M-STOCK: Aplikasi Investasi",
+        "developer": "PT. Mirae Asset Sekuritas Indonesia",
+        "score": 4.8172045
+      },
+      {
+        "appId": "id.co.miraeassetdaewoo",
+        "title": "Neo HOTS Mobile",
+        "developer": "PT. Mirae Asset Sekuritas Indonesia",
+        "score": 3.558233
+      },
+      {
+        "appId": "id.co.miraeasset.navi",
+        "title": "M-FUND: Aplikasi Reksadana",
+        "developer": "PT. Mirae Asset Sekuritas Indonesia",
+        "score": 4.267327
+      },
+      {
+        "appId": "com.mirae.investor.app",
+        "title": "Mirae Asset Mutual Fund",
+        "developer": "MIRAE ASSET INVESTMENT MANAGERS (INDIA) PVT LTD",
+        "score": null
+      },
+      {
+        "appId": "br.miraeasset",
+        "title": "Mirae Asset Invest",
+        "developer": "Mirae Asset Brasil CCTVM Ltda",
+        "score": null
+      }
+    ],
+    "appstore": [
+      {
+        "trackId": 1670096144,
+        "name": "M-STOCK: Aplikasi Investasi",
+        "seller": "PT. MIRAE ASSET SEKURITAS INDONESIA",
+        "rating": 4.16368,
+        "n": 446
+      },
+      {
+        "trackId": 1184800207,
+        "name": "Stockbit - Stock Investing App",
+        "seller": "Stockbit Pte Ltd",
+        "rating": 4.72237,
+        "n": 35255
+      },
+      {
+        "trackId": 1151264263,
+        "name": "Neo HOTS",
+        "seller": "PT. MIRAE ASSET SEKURITAS INDONESIA",
+        "rating": 2.50551,
+        "n": 1361
+      },
+      {
+        "trackId": 1596384365,
+        "name": "M-FUND: Aplikasi Reksadana",
+        "seller": "PT. MIRAE ASSET SEKURITAS INDONESIA",
+        "rating": 4.63953,
+        "n": 86
+      },
+      {
+        "trackId": 1589182679,
+        "name": "Sage Club",
+        "seller": "PT. MIRAE ASSET SEKURITAS INDONESIA",
+        "rating": 5,
+        "n": 7
+      }
+    ]
+  },
+  "Mandiri Sekuritas": {
+    "play": [
+      {
+        "appId": null,
+        "title": "Growin' - Invest & Trade",
+        "developer": "PT. Mandiri Sekuritas",
+        "score": 3.4625268
+      },
+      {
+        "appId": "com.stockbit.android",
+        "title": "Stockbit - Investasi Saham",
+        "developer": "Stockbit – Trading. Investing. Data. News. Chart.",
+        "score": 4.7002625
+      },
+      {
+        "appId": "ajaib.co.id",
+        "title": "Ajaib: Saham, Kripto, Saham AS",
+        "developer": "Ajaib Technologies",
+        "score": 4.5124745
+      },
+      {
+        "appId": "id.bmri.livin",
+        "title": "Livin' by Mandiri",
+        "developer": "PT Bank Mandiri (Persero) Tbk",
+        "score": 2.7641118
+      },
+      {
+        "appId": "com.indopremier.ipot",
+        "title": "IPOT Investasi & Trading Saham",
+        "developer": "Indo Premier Sekuritas, PT",
+        "score": 4.0714407
+      }
+    ],
+    "appstore": [
+      {
+        "trackId": 6736831346,
+        "name": "Growin' - Invest & Trade",
+        "seller": "Mandiri Sekuritas, PT",
+        "rating": 3.89723,
+        "n": 1265
+      },
+      {
+        "trackId": 1184800207,
+        "name": "Stockbit - Stock Investing App",
+        "seller": "Stockbit Pte Ltd",
+        "rating": 4.72237,
+        "n": 35255
+      },
+      {
+        "trackId": 1555414743,
+        "name": "Livin' by Mandiri",
+        "seller": "PT Bank Mandiri (Persero) Tbk.",
+        "rating": 2.26511,
+        "n": 31975
+      },
+      {
+        "trackId": 6667114592,
+        "name": "BCA Sekuritas mobile",
+        "seller": "BCA SEKURITAS, PT",
+        "rating": 3.75054,
+        "n": 461
+      }
+    ]
+  }
+}

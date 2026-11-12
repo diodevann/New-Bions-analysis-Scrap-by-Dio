@@ -1,0 +1,38 @@
+{
+  "apps": [
+    {
+      "name": "BIONS (BNIS)",
+      "play": "id.bions.bnis.android",
+      "appstore": "6736508566",
+      "is_target": true
+    },
+    {
+      "name": "Stockbit",
+      "play": "com.stockbit.android",
+      "appstore": "1184800207",
+      "query": "Stockbit Sekuritas",
+      "is_target": false
+    },
+    {
+      "name": "Ajaib",
+      "play": "ajaib.co.id",
+      "appstore": "1473916571",
+      "query": "Ajaib saham reksadana",
+      "is_target": false
+    },
+    {
+      "name": "IPOT",
+      "play": "com.indopremier.ipot",
+      "appstore": "1514387216",
+      "query": "IPOT Indo Premier",
+      "is_target": false
+    },
+    {
+      "name": "MOST",
+      "play": "id.co.miraeasset.stock",
+      "appstore": "1670096144",
+      "query": "MOST Mirae Asset Sekuritas",
+      "is_target": false
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "A0_overview": [
+    {
+      "app": "Ajaib",
+      "n": 8500,
+      "rating_mean": 4.3052941176,
+      "share_1_2_star": 0.1564705882,
+      "share_infra_neg": 0.1285882353,
+      "first": "2026-05-10T04:08:28.000Z",
+      "last": "2026-11-10T00:42:01.000Z"
+    },
+    {
+      "app": "BIONS (BNIS)",
+      "n": 951,
+      "rating_mean": 2.4395373291,
+      "share_1_2_star": 0.610935857,
+      "share_infra_neg": 0.4805467928,
+      "first": "2025-04-17T10:09:14.000Z",
+      "last": "2026-11-09T19:57:11.000Z"
+    },
+    {
+      "app": "IPOT",
+      "n": 3919,
+      "rating_mean": 3.7861699413,
+      "share_1_2_star": 0.2804286808,
+      "share_infra_neg": 0.2401122735,
+      "first": "2025-04-10T02:42:40.000Z",
+      "last": "2026-11-10T04:25:35.000Z"
+    },
+    {
+      "app": "MOST",
+      "n": 519,
+      "rating_mean": 3.6724470135,
+      "share_1_2_star": 0.3044315992,
+      "share_infra_neg": 0.2793834297,
+      "first": "2025-04-14T01:48:16.000Z",
+      "last": "2026-11-10T05:18:05.000Z"
+    },
+    {
+      "app": "Stockbit",
+      "n": 8428,
+      "rating_mean": 4.0140009492,
+      "share_1_2_star": 0.2200996678,
+      "share_infra_neg": 0.1856905553,
+      "first": "2025-04-09T22:41:00.000Z",
+      "last": "2026-11-10T06:59:44.000Z"
+    }
+  ],
+  "A1_gap": [
+    {
+      "aspect": "Kecepatan & latency",
+      "target_share": 0.2923238696,
+      "peer_median_share": 0.0537425482,
+      "gap": 0.2385813214,
+      "ci_lo": 0.2098179485,
+      "ci_hi": 0.2710721769,
+      "peer::Ajaib": 0.0392941176,
+      "peer::IPOT": 0.0939015055,
+      "peer::MOST": 0.063583815,
+      "peer::Stockbit": 0.0439012814
+    },
+    {
+      "aspect": "Tampilan & fitur",
+      "target_share": 0.1692954784,
+      "peer_median_share": 0.0421172704,
+      "gap": 0.1271782081,
+      "ci_lo": 0.1015663539,
+      "ci_hi": 0.1526318694,
+      "peer::Ajaib": 0.0243529412,
+      "peer::IPOT": 0.0982393468,
+      "peer::MOST": 0.0558766859,
+      "peer::Stockbit": 0.0283578548
+    },
+    {
+      "aspect": "Login & akses",
+      "target_share": 0.1619348055,
+      "peer_median_share": 0.0784388706,
+      "gap": 0.0834959348,
+      "ci_lo": 0.0590709674,
+      "ci_hi": 0.1119308247,
+      "peer::Ajaib": 0.0531764706,
+      "peer::IPOT": 0.1002806838,
+      "peer::MOST": 0.1021194605,
+      "peer::Stockbit": 0.0565970574
+    },
+    {
+      "aspect": "Akurasi data & saldo",
+      "target_share": 0.0788643533,
+      "peer_median_share": 0.0362750552,
+      "gap": 0.0425892982,
+      "ci_lo": 0.0242267885,
+      "ci_hi": 0.0596985912,
+      "peer::Ajaib": 0.0337647059,
+      "peer::IPOT": 0.0387854044,
+      "peer::MOST": 0.1078998073,
+      "peer::Stockbit": 0.0218319886
+    },
+    {
+      "aspect": "Stabilitas & error",
+      "target_share": 0.0967402734,
+      "peer_median_share": 0.0572955922,
+      "gap": 0.0394446812,
+      "ci_lo": 0.017191173,
+      "ci_hi": 0.0606047686,
+      "peer::Ajaib": 0.0357647059,
+      "peer::IPOT": 0.0548609339,
+      "peer::MOST": 0.0597302505,
+      "peer::Stockbit": 0.0937351685
+    },
+    {
+      "aspect": "Biaya",
+      "target_share": 0.0031545741,
+      "peer_median_share": 0.004251375,
+      "gap": -0.0010968008,
+      "ci_lo": -0.0042034805,
+      "ci_hi": 0.002823083,
+      "peer::Ajaib": 0.0047058824,
+      "peer::IPOT": 0.0033171727,
+      "peer::MOST": 0.0096339114,
+      "peer::Stockbit": 0.0037968676
+    },
+    {
+      "aspect": "Keamanan & kepercayaan",
+      "target_share": 0.0042060988,
+      "peer_median_share": 0.0053685195,
+      "gap": -0.0011624207,
+      "ci_lo": -0.005143838,
+      "ci_hi": 0.0036847548,
+      "peer::Ajaib": 0.0070588235,
+      "peer::IPOT": 0.0035723399,
+      "peer::MOST": 0.0115606936,
+      "peer::Stockbit": 0.0036782155
+    },
+    {
+      "aspect": "Layanan pelanggan",
+      "target_share": 0.0199789695,
+      "peer_median_share": 0.0215620131,
+      "gap": -0.0015830436,
+      "ci_lo": -0.0113222136,
+      "ci_hi": 0.0078852595,
+      "peer::Ajaib": 0.0181176471,
+      "peer::IPOT": 0.0250063792,
+      "peer::MOST": 0.0173410405,
+      "peer::Stockbit": 0.0251542477
+    }
+  ],
+  "A1b_helpful_share": 0.7173738991192954,
+  "A2a_hours": {
+    "share_infra": 0.5557986870897156,
+    "share_other": 0.451417004048583,
+    "lift": 1.231231172297397,
+    "ci_lo": 1.0855196536828124,
+    "ci_hi": 1.3960340924023453,
+    "n_infra": 457
+  },
+  "A2b_corr": [
+    {
+      "aktivitas": "vol_z",
+      "lag_hari": 1,
+      "ukuran": "jumlah",
+      "rho": 0.2162338202,
+      "p": 0.0846384538,
+      "n": 362
+    },
+    {
+      "aktivitas": "abs_ret",
+      "lag_hari": 0,
+      "ukuran": "jumlah",
+      "rho": -0.1339226831,
+      "p": 0.1269576808,
+      "n": 381
+    },
+    {
+      "aktivitas": "range",
+      "lag_hari": 2,
+      "ukuran": "rasio",
+      "rho": -0.2138514225,
+      "p": 0.1332889037,
+      "n": 124
+    },
+    {
+      "aktivitas": "range",
+      "lag_hari": 1,
+      "ukuran": "rasio",
+      "rho": -0.2115193253,
+      "p": 0.1472842386,
+      "n": 124
+    },
+    {
+      "aktivitas": "abs_ret",
+      "lag_hari": 0,
+      "ukuran": "rasio",
+      "rho": -0.1421094116,
+      "p": 0.1769410197,
+      "n": 124
+    }
+  ],
+  "A2c_event_halt": {
+    "n_events": 3,
+    "ratio": 0.9088639200998752,
+    "ci_lo": 0.0,
+    "ci_hi": 1.5029212248602686,
+    "event_mean": 1.1111111111111112,
+    "base_mean": 1.2225274725274726
+  },
+  "A2c_event_top5pct": {
+    "n_events": 19,
+    "ratio": 0.4901315789473684,
+    "ci_lo": 0.3036390069744599,
+    "ci_hi": 0.7091373514073752,
+    "event_mean": 0.6491228070175438,
+    "base_mean": 1.3243847874720356
+  },
+  "A2d_sensitivity_post_launch_n": 939,
+  "A3_leadlag_market": {
+    "k": 0.0,
+    "rho": 0.3837515611600574,
+    "p": 0.0004997501249375312,
+    "n": 83.0
+  },
+  "A3_leadlag_complaints": {
+    "k": 0.0,
+    "rho": 0.13799018241710095,
+    "p": 0.19490254872563717,
+    "n": 83.0
+  },
+  "A4_signal_lift": [
+    {
+      "sinyal": "|return| kemarin >= P90",
+      "n_sinyal": 39,
+      "presisi": 0.4102564103,
+      "ci_lo": 0.2707908944,
+      "ci_hi": 0.5658165153,
+      "base_rate": 0.1443569554,
+      "lift": 2.841958042
+    },
+    {
+      "sinyal": "volume kemarin >= +1 SD",
+      "n_sinyal": 82,
+      "presisi": 0.0243902439,
+      "ci_lo": 0.0067142296,
+      "ci_hi": 0.0846354191,
+      "base_rate": 0.1443569554,
+      "lift": 0.1689578714
+    }
+  ]
+}
