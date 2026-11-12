@@ -5,7 +5,7 @@
 Proyek ini bertujuan untuk mengidentifikasi akar penyebab keluhan pengguna pada aplikasi BIONS (BNI Sekuritas) melalui pendekatan berbasis data (*data-driven*). Menggunakan *Natural Language Processing* (NLP) pada puluhan ribu ulasan publik, analisis ini membuktikan bahwa stabilitas infrastruktur pada jam perdagangan bursa merupakan metrik krusial yang berdampak langsung pada potensi kehilangan transaksi (hilangnya *fee* broker) dan *churn* nasabah.
 
 **Oleh:** I Gede Dio Devan Satria Prawira
-**Institusi:** Mekatronika dan Kecerdasan Buatan, Universitas Pendidikan Indonesia (UPI)  
+**Program Studi:** Mekatronika dan Kecerdasan Buatan, Universitas Pendidikan Indonesia (UPI)  
 **Divisi Pilihan:** IT - Application Development & IT - Project Management Office
 
 ---
